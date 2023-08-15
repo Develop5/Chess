@@ -1,3 +1,3 @@
 # Chess
 
-## Load games and resources to play chessmate  ##
+## Loaded games and resources to play chessmate  ##
